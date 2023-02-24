@@ -3,7 +3,8 @@
 - I’m interested in and looking to collaborate on:
   - vertical farming technologies
   - electric propulsion
-  - mobile application development
+  - GNC algorithms
+  - RF projects
 
 You can contact me via LinkedIn at "Vasily Piccone"
 
