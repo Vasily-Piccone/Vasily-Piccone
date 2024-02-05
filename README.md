@@ -2,6 +2,7 @@
 - I’m interested in and looking to collaborate on:
   - vertical farming technologies
   - space
+  - Decentralization
 
 Twitter: @vasilypiccone
 
